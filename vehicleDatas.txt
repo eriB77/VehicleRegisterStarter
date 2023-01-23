@@ -2,3 +2,5 @@ bgfer;thrzh;hre;5;thr
 ABC123;Ford;Escort;5;D1
 ASD123;Opel;Astra;5;D1
 poi123;Tesla;M3;5;D1
+PIW368;Skoda;Octavia;5;D1
+afg234;nissan;almera;3;d1
