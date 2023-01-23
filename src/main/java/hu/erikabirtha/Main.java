@@ -15,4 +15,3 @@ public class Main {
         view.mainLoop();
     }
 }
-//console run

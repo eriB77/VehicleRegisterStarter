@@ -7,6 +7,7 @@
     <list default="true" id="b546deaf-0c4d-41cb-995c-efcc959dabf2" name="Changes" comment="use controller">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hu/erikabirtha/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/erikabirtha/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vehicleDatas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vehicleDatas.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +28,16 @@
     </option>
   </component>
   <component name="ProjectId" id="2KabmNjK4bVQsXx2ijcme8k90wm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -77,7 +81,7 @@
       <workItem from="1674215802025" duration="5852000" />
       <workItem from="1674316377494" duration="5479000" />
       <workItem from="1674414314486" duration="980000" />
-      <workItem from="1674456702970" duration="10698000" />
+      <workItem from="1674456702970" duration="12335000" />
     </task>
     <task id="LOCAL-00001" summary="use controller">
       <created>1674233462313</created>
@@ -93,13 +97,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674233890767</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="use controller">
+      <created>1674482714221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674482714221</updated>
+    </task>
+    <task id="LOCAL-00004" summary="use controller">
+      <created>1674482738428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674482738428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="use controller" />
     <option name="LAST_COMMIT_MESSAGE" value="use controller" />
   </component>
